@@ -1,0 +1,15 @@
+# =========================
+# 📦 requirements.txt
+# =========================
+
+pandas
+requests
+google-cloud-bigquery
+google-auth
+prefect
+prefect-github
+wordcloud
+matplotlib
+seaborn
+jupyter
+openpyxl
