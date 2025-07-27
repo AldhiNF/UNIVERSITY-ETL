@@ -1,0 +1,24 @@
+# File konfigurasi rahasia
+.env
+config/
+
+# Cache dan file sementara Python
+*.pyc
+__pycache__/
+
+# File log
+*.log
+logs/
+
+# File Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# File sementara sistem
+.DS_Store
+*.tmp
+*.bak
+
+# Direktori yang tidak perlu diunggah
+.vscode/
+notebooks/
+docs/
