@@ -55,7 +55,7 @@ The interactive dashboard is built with Looker Studio:
 
 Contains:
 - Top 10 Countries by University Count
-- University Distribution by Continent
+- University Distribution by Country
 - Top-Level Domain Usage
 - Domain Count Statistics
 - Searchable University Table
