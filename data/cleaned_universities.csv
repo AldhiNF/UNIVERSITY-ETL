@@ -1368,8 +1368,8 @@ Universidade Metodista de Angola,Angola,AO,['uma.co.ao'],['http://www.uma.co.ao/
 Universidade Independente de Angola,Angola,AO,['unia.ao'],['http://www.unia.ao/'],1,ao,Africa
 Universidade Metropolitana de Angola,Angola,AO,['unimetroangola.com'],['http://www.unimetroangola.com/'],1,com,Africa
 Universidade Tecnica de Angola,Angola,AO,['utanga.co.ao'],['http://www.utanga.co.ao/'],1,ao,Africa
-American University of Antigua,Antigua and Barbuda,AG,['auamed.org'],['http://www.auamed.org/'],1,org,
-University of Health Sciences Antigua,Antigua and Barbuda,AG,['uhsa.ag'],['http://www.uhsa.ag/'],1,ag,
+American University of Antigua,Antigua and Barbuda,AG,['auamed.org'],['http://www.auamed.org/'],1,org,North America
+University of Health Sciences Antigua,Antigua and Barbuda,AG,['uhsa.ag'],['http://www.uhsa.ag/'],1,ag,North America
 Universidad Atlantida Argentina,Argentina,AR,['atlantida.edu.ar'],['http://www.atlantida.edu.ar/'],1,ar,South America
 Universidad Austral Buenos Aires,Argentina,AR,['austral.edu.ar'],['http://www.austral.edu.ar/'],1,ar,South America
 "Universidad CAECE, Buenos Aires",Argentina,AR,['caece.edu.ar'],['http://www.caece.edu.ar/'],1,ar,South America
@@ -1769,8 +1769,8 @@ West Coast University (WCU),Belize,BZ,['westcoastuniversity.bz'],['http://www.we
 Espam Formation University,Benin,BJ,['espam-formationuc.org'],['http://www.espam-formationuc.org/'],1,org,Africa
 Houdegbe North American University Benin,Benin,BJ,['hnaubenin.org'],['http://www.hnaubenin.org/'],1,org,Africa
 Université d'Abomey-Calavi (UAC),Benin,BJ,['uac.bj'],['http://www.uac.bj/'],1,bj,Africa
-Bermuda College,Bermuda,BM,['bercol.bm'],['http://www.bercol.bm/'],1,bm,
-Royal University of Bhutan,Bhutan,BT,['rub.edu.bt'],['http://www.rub.edu.bt/'],1,bt,
+Bermuda College,Bermuda,BM,['bercol.bm'],['http://www.bercol.bm/'],1,bm,North America
+Royal University of Bhutan,Bhutan,BT,['rub.edu.bt'],['http://www.rub.edu.bt/'],1,bt,Asia
 Escuela Militar de Ingeniería,"Bolivia, Plurinational State of",BO,['emi.edu.bo'],['http://www.emi.edu.bo/'],1,bo,
 Universidad NUR,"Bolivia, Plurinational State of",BO,['nur.edu'],['http://www.nur.edu/'],1,edu,
 Universidad Adventista de Bolivia,"Bolivia, Plurinational State of",BO,['uab.edu.bo'],['http://www.uab.edu.bo/'],1,bo,
@@ -2213,10 +2213,10 @@ Vancouver Community College,Canada,CA,['vcc.ca'],['http://www.vcc.ca/'],1,ca,Nor
 Wilfrid Laurier University,Canada,CA,"['wlu.ca', 'mylaurier.ca']",['http://www.wlu.ca/'],2,ca,North America
 York University,Canada,CA,['yorku.ca'],['http://www.yorku.ca/'],1,ca,North America
 Yukon College,Canada,CA,['yukoncollege.yk.ca'],['http://www.yukoncollege.yk.ca/'],1,ca,North America
-Universidade Jean Piaget de Cabo Verde,Cape Verde,CV,['cv.unipiaget.org'],['http://cv.unipiaget.org/'],1,org,
+Universidade Jean Piaget de Cabo Verde,Cape Verde,CV,['cv.unipiaget.org'],['http://cv.unipiaget.org/'],1,org,Africa
 International College of the Cayman Islands,Cayman Islands,KY,['icci.edu.ky'],['http://www.icci.edu.ky/'],1,ky,
 St. Matthews University,Cayman Islands,KY,['stmatthews.edu'],['http://www.stmatthews.edu/'],1,edu,
-Université de Bangui,Central African Republic,CF,['univ-bangui.net'],['http://www.univ-bangui.net/'],1,net,
+Université de Bangui,Central African Republic,CF,['univ-bangui.net'],['http://www.univ-bangui.net/'],1,net,Africa
 Université de N'Djamena,Chad,TD,['univ-ndjamena.org'],['http://www.univ-ndjamena.org/'],1,org,Africa
 Universidad Academia de Humanismo Cristiano,Chile,CL,['academia.cl'],['http://www.academia.cl/'],1,cl,South America
 Escuela de Arquitectura y Diseño,Chile,CL,['arquitecturaucv.cl'],['http://www.arquitecturaucv.cl/'],1,cl,South America
@@ -2918,10 +2918,10 @@ University of Southern Denmark - SDU,Denmark,DK,['sdu.dk'],['http://www.sdu.dk/'
 Lutheran School Of Theology In Aarhus,Denmark,DK,['teologi.dk'],['http://www.teologi.dk/'],1,dk,Europe
 Tietgen Business College,Denmark,DK,['tietgen.dk'],['http://www.tietgen.dk/'],1,dk,Europe
 VIA University College,Denmark,DK,['en.via.dk'],['https://en.via.dk/'],1,dk,Europe
-Université de Djibouti,Djibouti,DJ,['univ.edu.dj'],['http://www.univ.edu.dj/'],1,dj,
-Dominica State College,Dominica,DM,['dsc.dm'],['http://www.dsc.dm/'],1,dm,
-New World University,Dominica,DM,['newworld.ac'],['http://www.newworld.ac/'],1,ac,
-Ross University Caribbean School of Medicine,Dominica,DM,['rossu.edu'],['http://www.rossu.edu/medical-school/'],1,edu,
+Université de Djibouti,Djibouti,DJ,['univ.edu.dj'],['http://www.univ.edu.dj/'],1,dj,Africa
+Dominica State College,Dominica,DM,['dsc.dm'],['http://www.dsc.dm/'],1,dm,North America
+New World University,Dominica,DM,['newworld.ac'],['http://www.newworld.ac/'],1,ac,North America
+Ross University Caribbean School of Medicine,Dominica,DM,['rossu.edu'],['http://www.rossu.edu/medical-school/'],1,edu,North America
 Universidad Dominico-Americana,Dominican Republic,DO,['icda.edu.do'],['http://www.icda.edu.do/espanol/unicda/'],1,do,North America
 Instituto Tecnológico de Santo Domingo,Dominican Republic,DO,['intec.edu.do'],['http://www.intec.edu.do/'],1,do,North America
 Instituto Tecnológico de Las Américas,Dominican Republic,DO,['itla.edu.do'],['https://itla.edu.do/'],1,do,North America
@@ -3059,8 +3059,8 @@ Universidad Isaac Newton,El Salvador,SV,['usin.edu.sv'],['http://www.usin.edu.sv
 Universidad de Sonsonate,El Salvador,SV,['usonsonate.edu.sv'],['http://www.usonsonate.edu.sv/'],1,sv,North America
 Universidad Tecnológica de El Salvador,El Salvador,SV,['utec.edu.sv'],['http://www.utec.edu.sv/'],1,sv,North America
 Universidad Técnica Latinoamericana,El Salvador,SV,['utla.edu.sv'],['http://www.utla.edu.sv/'],1,sv,North America
-Universidad Nacional de Guinea Ecuatorial,Equatorial Guinea,GQ,['unge.gq'],['http://www.unge.gq/'],1,gq,
-Eritrea Institute of Technology,Eritrea,ER,['eit.edu.er'],['http://www.eit.edu.er/'],1,er,
+Universidad Nacional de Guinea Ecuatorial,Equatorial Guinea,GQ,['unge.gq'],['http://www.unge.gq/'],1,gq,Africa
+Eritrea Institute of Technology,Eritrea,ER,['eit.edu.er'],['http://www.eit.edu.er/'],1,er,Africa
 Estonian Academy of Arts,Estonia,EE,['artun.ee'],['http://www.artun.ee/'],1,ee,Europe
 Estonian Business School,Estonia,EE,['ebs.ee'],['http://www.ebs.ee/'],1,ee,Europe
 Estonian Academy of Music and Theatre,Estonia,EE,['ema.edu.ee'],['http://www.ema.edu.ee/'],1,ee,Europe
@@ -3101,7 +3101,7 @@ Wolkite University,Ethiopia,ET,['wku.edu.et'],['http://www.wku.edu.et/'],1,et,Af
 Wolaita Sodo University,Ethiopia,ET,['wsu.edu.et'],['http://www.wsu.edu.et/'],1,et,Africa
 Wollo University,Ethiopia,ET,['wu.edu.et'],['http://www.wu.edu.et/'],1,et,Africa
 Wollega University,Ethiopia,ET,['wuni.edu.et'],['http://www.wuni.edu.et/'],1,et,Africa
-University of the Faroe Islands,Faroe Islands,FO,['setur.fo'],['http://www.setur.fo/'],1,fo,
+University of the Faroe Islands,Faroe Islands,FO,['setur.fo'],['http://www.setur.fo/'],1,fo,Europe
 Fiji National University,Fiji,FJ,['fnu.ac.fj'],['http://www.fnu.ac.fj/'],1,fj,Oceania
 Fiji School of Medicine,Fiji,FJ,['fsm.ac.fj'],['http://www.fsm.ac.fj/'],1,fj,Oceania
 University of Fiji,Fiji,FJ,['unifiji.ac.fj'],['http://www.unifiji.ac.fj/'],1,fj,Oceania
@@ -3397,9 +3397,9 @@ Ecole Pour l'Informatique et les Techniques Avancees,France,FR,['epita.fr'],['ht
 Institut polytechnique des sciences avancees,France,FR,['ipsa.fr'],['http://www.ipsa.fr/'],1,fr,Europe
 Ecole des technologies numeriques appliquees,France,FR,['etna.io'],['http://www.etna.io/'],1,io,Europe
 Institut Sup'Biotech de Paris,France,FR,['supbiotech.fr'],['http://www.supbiotech.fr/'],1,fr,Europe
-Université des Antilles et de la Guyane,French Guiana,GF,['univ-ag.fr'],['http://www.univ-ag.fr/'],1,fr,
-Université de la Polynésie Française,French Polynesia,PF,['upf.pf'],['http://www.upf.pf/'],1,pf,
-Université Omar Bongo,Gabon,GA,['uob.ga'],['http://www.uob.ga/'],1,ga,
+Université des Antilles et de la Guyane,French Guiana,GF,['univ-ag.fr'],['http://www.univ-ag.fr/'],1,fr,South America
+Université de la Polynésie Française,French Polynesia,PF,['upf.pf'],['http://www.upf.pf/'],1,pf,Oceania
+Université Omar Bongo,Gabon,GA,['uob.ga'],['http://www.uob.ga/'],1,ga,Africa
 American International University West Africa,Gambia,GM,['aiu.edu.gm'],['http://www.aiu.edu.gm/'],1,gm,Africa
 EUCLID University,Gambia,GM,['euclid.int'],['http://www.euclid.int/'],1,int,Africa
 University of the Gambia,Gambia,GM,['utg.edu.gm'],['http://www.utg.edu.gm/'],1,gm,Africa
@@ -3759,9 +3759,9 @@ University of Western Macedonia,Greece,GR,['uowm.gr'],['https://www.uowm.gr/'],1
 University of Patras,Greece,GR,['upatras.gr'],['https://www.upatras.gr/'],1,gr,Europe
 University of Thessaly,Greece,GR,['uth.gr'],['https://www.uth.gr/'],1,gr,Europe
 University of Greenland,Greenland,GL,['ilisimatusarfik.gl'],['http://www.ilisimatusarfik.gl/'],1,gl,North America
-St. George's University,Grenada,GD,['sgu.edu'],['http://www.sgu.edu/'],1,edu,
+St. George's University,Grenada,GD,['sgu.edu'],['http://www.sgu.edu/'],1,edu,North America
 Université des Antilles,Guadeloupe,GP,['univ-antilles.fr'],['http://www.univ-antilles.fr/'],1,fr,
-University of Guam,Guam,GU,['uog.edu'],['http://www.uog.edu/'],1,edu,
+University of Guam,Guam,GU,['uog.edu'],['http://www.uog.edu/'],1,edu,Oceania
 Centro Universitario Ciudad Vieja,Guatemala,GT,['cucv.edu.gt'],['http://www.cucv.edu.gt/'],1,gt,North America
 Centro Universitario de Occidente,Guatemala,GT,['cunoc.edu.gt'],['http://www.cunoc.edu.gt/'],1,gt,North America
 Universidad Galileo,Guatemala,GT,['galileo.edu'],['http://www.galileo.edu/'],1,edu,North America
@@ -3773,10 +3773,10 @@ Universidad Rafael Landívar,Guatemala,GT,['url.edu.gt'],['http://www.url.edu.gt
 Universidad Rural de Guatemala,Guatemala,GT,['urural.edu.gt'],['http://www.urural.edu.gt/'],1,gt,North America
 Universidad de San Carlos de Guatemala,Guatemala,GT,['usac.edu.gt'],['http://www.usac.edu.gt/'],1,gt,North America
 Universidad del Valle de Guatemala,Guatemala,GT,['uvg.edu.gt'],['http://www.uvg.edu.gt/'],1,gt,North America
-Université Gamal Abdel Nasser de Conakry,Guinea,GN,['uganc.org'],['http://www.uganc.org/'],1,org,
-Université Julius Nyerere Kankan,Guinea,GN,['ujnk.org'],['http://www.ujnk.org/'],1,org,
-Université Kofi Annan,Guinea,GN,['univ-kag.org'],['http://www.univ-kag.org/'],1,org,
-Université Thierno Amadou Diallo,Guinea,GN,['utad-petel-edu.org'],['http://www.utad-petel-edu.org/'],1,org,
+Université Gamal Abdel Nasser de Conakry,Guinea,GN,['uganc.org'],['http://www.uganc.org/'],1,org,Africa
+Université Julius Nyerere Kankan,Guinea,GN,['ujnk.org'],['http://www.ujnk.org/'],1,org,Africa
+Université Kofi Annan,Guinea,GN,['univ-kag.org'],['http://www.univ-kag.org/'],1,org,Africa
+Université Thierno Amadou Diallo,Guinea,GN,['utad-petel-edu.org'],['http://www.utad-petel-edu.org/'],1,org,Africa
 Gemsville Technical University,Guyana,GY,['gemsvilleuniversity.com'],['http://www.gemsvilleuniversity.com/'],1,com,South America
 Greenheart Medical School,Guyana,GY,['greenheartmed.org'],['http://www.greenheartmed.org/'],1,org,South America
 Texila American University,Guyana,GY,['tauedu.org'],['http://www.tauedu.org/'],1,org,South America
@@ -5809,7 +5809,7 @@ Lebanese University,Lebanon,LB,['ul.edu.lb'],['http://www.ul.edu.lb/'],1,lb,Asia
 Holy Spirit University of Kaslik,Lebanon,LB,['usek.edu.lb'],['http://www.usek.edu.lb/'],1,lb,Asia
 St. Joseph University Beirut,Lebanon,LB,['usj.edu.lb'],['http://www.usj.edu.lb/'],1,lb,Asia
 Al Imam Al-Ouzai University,Lebanon,LB,['wakf.org'],['http://www.wakf.org/'],1,org,Asia
-National University of Lesotho,Lesotho,LS,['nul.ls'],['http://www.nul.ls/'],1,ls,
+National University of Lesotho,Lesotho,LS,['nul.ls'],['http://www.nul.ls/'],1,ls,Africa
 University of Liberia,Liberia,LR,['universityliberia.org'],['http://www.universityliberia.org/'],1,org,Africa
 Al-Asmarya University for Islamic Studies,Libya,LY,['asmarya.edu.ly'],['http://www.asmarya.edu.ly/'],1,ly,
 Elmergib University,Libya,LY,['elmergib.edu.ly'],['http://www.elmergib.edu.ly/'],1,ly,
@@ -6013,9 +6013,9 @@ Petronas Technology University,Malaysia,MY,['utp.edu.my'],['http://www.utp.edu.m
 Universiti Utara Malaysia,Malaysia,MY,['uum.edu.my'],['http://www.uum.edu.my/'],1,my,Asia
 West Minster International College,Malaysia,MY,['westminster.edu.my'],['http://www.westminster.edu.my/'],1,my,Asia
 Wawasan Open University,Malaysia,MY,['wou.edu.my'],['http://www.wou.edu.my/'],1,my,Asia
-Cyryx College,Maldives,MV,['cyryxcollege.edu.mv'],['http://www.cyryxcollege.edu.mv/'],1,mv,
-Mandhu College,Maldives,MV,['mandhu.com'],['http://www.mandhu.com/edu/'],1,com,
-Maldives National University,Maldives,MV,['mnu.edu.mv'],['http://www.mnu.edu.mv/'],1,mv,
+Cyryx College,Maldives,MV,['cyryxcollege.edu.mv'],['http://www.cyryxcollege.edu.mv/'],1,mv,Asia
+Mandhu College,Maldives,MV,['mandhu.com'],['http://www.mandhu.com/edu/'],1,com,Asia
+Maldives National University,Maldives,MV,['mnu.edu.mv'],['http://www.mnu.edu.mv/'],1,mv,Asia
 Université de Bamako,Mali,ML,['ml.refer.org'],['http://www.ml.refer.org/u-bamako/'],1,org,Africa
 European Institute of Education,Malta,MT,['eieonline.com'],['http://www.eieonline.com/'],1,com,Europe
 International Tourism Institute,Malta,MT,['itismalta.com'],['http://www.itismalta.com/'],1,com,Europe
@@ -6199,18 +6199,18 @@ Moldova State University,"Moldova, Republic of",MD,['usm.md'],['http://www.usm.m
 Tiraspol State University,"Moldova, Republic of",MD,['ust.md'],['http://www.ust.md/'],1,md,
 Moldova Technical University,"Moldova, Republic of",MD,['utm.md'],['http://www.utm.md/'],1,md,
 University of Southern Europe (Monaco Business School),Monaco,MC,['riviera.fr'],['http://www.riviera.fr/usehome.htm'],1,fr,Europe
-Health sciences University of Mongolia,Mongolia,MN,['hsum-ac.mn'],['http://www.hsum-ac.mn/'],1,mn,
-University of the Humanities,Mongolia,MN,['humanities.mn'],['http://www.humanities.mn/'],1,mn,
-Institute of Commerce and Business,Mongolia,MN,['icb.edu.mn'],['http://www.icb.edu.mn/'],1,mn,
-Mongolian State University of Arts and Culture,Mongolia,MN,['msuac.edu.mn'],['http://www.msuac.edu.mn/'],1,mn,
-Mongolian State University of Agriculture,Mongolia,MN,['msua.edu.mn'],['http://www.msua.edu.mn/'],1,mn,
-Mongolian State University of Education,Mongolia,MN,['msue.edu.mn'],['http://www.msue.edu.mn/'],1,mn,
-Mongolian University of Science and Technology,Mongolia,MN,['must.edu.mn'],['http://www.must.edu.mn/'],1,mn,
-Mongolian National University,Mongolia,MN,['num.edu.mn'],['http://www.num.edu.mn/'],1,mn,
-Orkhon University,Mongolia,MN,['orkhon.edu.mn'],['http://www.orkhon.edu.mn/'],1,mn,
-Ulaanbaatar University,Mongolia,MN,['ulaanbaatar.edu.mn'],['http://www.ulaanbaatar.edu.mn/'],1,mn,
+Health sciences University of Mongolia,Mongolia,MN,['hsum-ac.mn'],['http://www.hsum-ac.mn/'],1,mn,Asia
+University of the Humanities,Mongolia,MN,['humanities.mn'],['http://www.humanities.mn/'],1,mn,Asia
+Institute of Commerce and Business,Mongolia,MN,['icb.edu.mn'],['http://www.icb.edu.mn/'],1,mn,Asia
+Mongolian State University of Arts and Culture,Mongolia,MN,['msuac.edu.mn'],['http://www.msuac.edu.mn/'],1,mn,Asia
+Mongolian State University of Agriculture,Mongolia,MN,['msua.edu.mn'],['http://www.msua.edu.mn/'],1,mn,Asia
+Mongolian State University of Education,Mongolia,MN,['msue.edu.mn'],['http://www.msue.edu.mn/'],1,mn,Asia
+Mongolian University of Science and Technology,Mongolia,MN,['must.edu.mn'],['http://www.must.edu.mn/'],1,mn,Asia
+Mongolian National University,Mongolia,MN,['num.edu.mn'],['http://www.num.edu.mn/'],1,mn,Asia
+Orkhon University,Mongolia,MN,['orkhon.edu.mn'],['http://www.orkhon.edu.mn/'],1,mn,Asia
+Ulaanbaatar University,Mongolia,MN,['ulaanbaatar.edu.mn'],['http://www.ulaanbaatar.edu.mn/'],1,mn,Asia
 University of Montenegro,Montenegro,ME,['ucg.cg.ac.yu'],['http://www.ucg.cg.ac.yu/'],1,yu,Europe
-"University of Science, Arts and Technology",Montserrat,MS,['usat.ms'],['http://www.usat.ms/'],1,ms,
+"University of Science, Arts and Technology",Montserrat,MS,['usat.ms'],['http://www.usat.ms/'],1,ms,North America
 Ecole Nationale d'Architecture,Morocco,MA,['archi.ac.ma'],['http://www.archi.ac.ma/'],1,ma,Africa
 Al Akhawayn University,Morocco,MA,['aui.ma'],['http://www.aui.ma/'],1,ma,Africa
 Ecole des Hautes Etudes en Gestion Informatique et Communication,Morocco,MA,['edhec.ac.ma'],['http://www.edhec.ac.ma/'],1,ma,Africa
@@ -6308,7 +6308,7 @@ Wageningen University,Netherlands,NL,['wageningenuniversity.nl'],['http://www.wa
 Christelijke Hogeschool Windesheim,Netherlands,NL,['windesheim.nl'],['http://www.windesheim.nl/'],1,nl,Europe
 Wittenborg University,Netherlands,NL,['wittenborg.eu'],['http://www.wittenborg.eu/'],1,eu,Europe
 Zuyd University,Netherlands,NL,['zuyd.nl'],['http://www.zuyd.nl/'],1,nl,Europe
-University of New Caledonia,New Caledonia,NC,['ufp.nc'],['http://www.ufp.nc/'],1,nc,
+University of New Caledonia,New Caledonia,NC,['ufp.nc'],['http://www.ufp.nc/'],1,nc,Oceania
 University of Auckland,New Zealand,NZ,"['auckland.ac.nz', 'aucklanduni.ac.nz']",['http://www.auckland.ac.nz/'],2,nz,Oceania
 Auckland University of Technology,New Zealand,NZ,['aut.ac.nz'],['http://www.aut.ac.nz/'],1,nz,Oceania
 University of Canterbury,New Zealand,NZ,"['canterbury.ac.nz', 'uclive.ac.nz']",['http://www.canterbury.ac.nz/'],2,nz,Oceania
@@ -6452,7 +6452,7 @@ Western Delta University,Nigeria,NG,['wdu.edu.ng'],['http://www.wdu.edu.ng/'],1,
 Wellspring University,Nigeria,NG,['wellspringuniversity.edu.ng'],['http://www.wellspringuniversity.edu.ng/'],1,ng,Africa
 Wesley University of Science and Technology,Nigeria,NG,['wustoportal.edu.ng'],['http://www.wustoportal.edu.ng/'],1,ng,Africa
 Yaba College of Technology,Nigeria,NG,['yabatech.edu.ng'],['http://www.yabatech.edu.ng/'],1,ng,Africa
-St Clements University - Higher Education School,Niue,NU,['stclements.edu.nu'],['http://www.stclements.edu.nu/'],1,nu,
+St Clements University - Higher Education School,Niue,NU,['stclements.edu.nu'],['http://www.stclements.edu.nu/'],1,nu,Oceania
 Oslo School of Architecture,Norway,NO,['aho.no'],['http://www.aho.no/'],1,no,Europe
 Norwegian School of Management BI,Norway,NO,['bi.no'],['http://www.bi.no/'],1,no,Europe
 Agder University College,Norway,NO,['hia.no'],['http://www.hia.no/'],1,no,Europe
@@ -7070,7 +7070,7 @@ Northwestern University In Qatar,Qatar,QA,['qatar.northwestern.edu'],['http://ww
 University of Qatar,Qatar,QA,['qu.edu.qa'],['http://www.qu.edu.qa/'],1,qa,Asia
 Oryx International,Qatar,QA,['oryxschool.qa'],['https://oryxschool.qa/'],1,qa,Asia
 Hamad Bin Khalifa University,Qatar,QA,['hbku.edu.qa'],['https://www.hbku.edu.qa'],1,qa,Asia
-Université de la Reunion,Réunion,RE,['univ-reunion.fr'],['http://www.univ-reunion.fr/'],1,fr,
+Université de la Reunion,Réunion,RE,['univ-reunion.fr'],['http://www.univ-reunion.fr/'],1,fr,Africa
 AISTEDA,Romania,RO,['aistedaab.ro'],['http://www.aistedaab.ro/'],1,ro,Europe
 "Academy of Music ""Georghe Dima"" Cluj-Napoca",Romania,RO,['amgd.eu'],['http://www.amgd.eu/'],1,eu,Europe
 National Academy for Physical Education and Sports Bucharest,Romania,RO,['anefs-edu.ro'],['http://www.anefs-edu.ro/'],1,ro,Europe
@@ -7452,12 +7452,12 @@ School of Finance and Banking,Rwanda,RW,['sfb.ac.rw'],['http://www.sfb.ac.rw/'],
 Université Catholique de Kabgayi,Rwanda,RW,['uck.ac.rw'],['http://www.uck.ac.rw/'],1,rw,Africa
 Kigali Independent University,Rwanda,RW,['ulk.ac.rw'],['http://www.ulk.ac.rw/'],1,rw,Africa
 Umutara Polytechnic,Rwanda,RW,['umutarapolytech.ac.rw'],['http://www.umutarapolytech.ac.rw/'],1,rw,Africa
-International University for Graduate Studies,Saint Kitts and Nevis,KN,['iugrad.edu.kn'],['http://www.iugrad.edu.kn/'],1,kn,
-St Theresa's Medical University,Saint Kitts and Nevis,KN,['stmu.org'],['http://www.stmu.org/'],1,org,
-University of Silvaner,Saint Kitts and Nevis,KN,['unisilvaner.info'],['http://www.unisilvaner.info/'],1,info,
-Windsor University School of Medicine,Saint Kitts and Nevis,KN,['windsor.edu'],['http://www.windsor.edu/'],1,edu,
-Spartan University of Health Sciences,Saint Lucia,LC,['spartanmed.org'],['http://www.spartanmed.org/'],1,org,
-Trinity University School of Medicine,Saint Vincent and the Grenadines,VC,['tusom.org'],['http://www.tusom.org/'],1,org,
+International University for Graduate Studies,Saint Kitts and Nevis,KN,['iugrad.edu.kn'],['http://www.iugrad.edu.kn/'],1,kn,North America
+St Theresa's Medical University,Saint Kitts and Nevis,KN,['stmu.org'],['http://www.stmu.org/'],1,org,North America
+University of Silvaner,Saint Kitts and Nevis,KN,['unisilvaner.info'],['http://www.unisilvaner.info/'],1,info,North America
+Windsor University School of Medicine,Saint Kitts and Nevis,KN,['windsor.edu'],['http://www.windsor.edu/'],1,edu,North America
+Spartan University of Health Sciences,Saint Lucia,LC,['spartanmed.org'],['http://www.spartanmed.org/'],1,org,North America
+Trinity University School of Medicine,Saint Vincent and the Grenadines,VC,['tusom.org'],['http://www.tusom.org/'],1,org,North America
 National University of Samoa,Samoa,WS,['nus.edu.ws'],['http://www.nus.edu.ws/'],1,ws,Oceania
 University of San Marino,San Marino,SM,['unirsm.sm'],['http://www.unirsm.sm/'],1,sm,Europe
 Imam Abdulrahman Bin Faisal University,Saudi Arabia,SA,['iau.edu.sa'],['https://iau.edu.sa'],1,sa,Asia
@@ -7546,8 +7546,8 @@ Privredna Akademija (Business Academy),Serbia,RS,['privrednaakademija.edu.rs'],[
 Singidunum University,Serbia,RS,['singidunum.edu.rs'],['http://www.singidunum.edu.rs/'],1,rs,Europe
 International University of Novi Pazar,Serbia,RS,['uninp.edu.rs'],['http://www.uninp.edu.rs/'],1,rs,Europe
 University of Novi Sad,Serbia,RS,['uns.ac.rs'],['http://www.uns.ac.rs/'],1,rs,Europe
-University of Seychelles,Seychelles,SC,['unisey.ac.sc'],['http://www.unisey.ac.sc/'],1,sc,
-University of Seychelles - American Institute of Medicine,Seychelles,SC,['usaim.edu'],['http://www.usaim.edu/'],1,edu,
+University of Seychelles,Seychelles,SC,['unisey.ac.sc'],['http://www.unisey.ac.sc/'],1,sc,Africa
+University of Seychelles - American Institute of Medicine,Seychelles,SC,['usaim.edu'],['http://www.usaim.edu/'],1,edu,Africa
 "Fourah Bay College, University of Sierra Leone",Sierra Leone,SL,['fbcusl.8k.com'],['http://fbcusl.8k.com/'],1,com,Africa
 LICCSAL Business College,Sierra Leone,SL,['liccsalsl.org'],['http://www.liccsalsl.org/'],1,org,Africa
 Njala University,Sierra Leone,SL,['nu-online.com'],['http://www.nu-online.com/'],1,com,Africa
@@ -8208,7 +8208,7 @@ Yeditepe University,Turkey,TR,['yeditepe.edu.tr'],['http://www.yeditepe.edu.tr/'
 Yildiz Technical University,Turkey,TR,['yildiz.edu.tr'],['http://www.yildiz.edu.tr/'],1,tr,Asia
 Yüzüncü Yil (Centennial) University,Turkey,TR,['yyu.edu.tr'],['http://www.yyu.edu.tr/'],1,tr,Asia
 International Turkmen Turkish University,Turkmenistan,TM,['ittu.edu.tm'],['http://www.ittu.edu.tm/'],1,tm,Asia
-Charisma University,Turks and Caicos Islands,TC,['charismauniversity.org'],['http://www.charismauniversity.org/'],1,org,
+Charisma University,Turks and Caicos Islands,TC,['charismauniversity.org'],['http://www.charismauniversity.org/'],1,org,North America
 Busitema University,Uganda,UG,['busitema.ac.ug'],['http://www.busitema.ac.ug/'],1,ug,Africa
 Busoga University,Uganda,UG,['busogauniversity.ac.ug'],['http://www.busogauniversity.ac.ug/'],1,ug,Africa
 Central Buganda University,Uganda,UG,['cbu2000.com'],['http://www.cbu2000.com/'],1,com,Africa
@@ -10067,7 +10067,7 @@ Kalinga Institute of Industrial Technology (KIIT),India,IN,['kiit.ac.in'],['http
 Sharda University,India,IN,['sharda.ac.in'],['https://www.sharda.ac.in/'],1,in,Asia
 Bunkyo Gakuin University,Japan,JP,['bgu.ac.jp'],['https://www.bgu.ac.jp/'],1,jp,Asia
 Osaka Jogakuin University,Japan,JP,['wilmina.ac.jp'],['https://www.wilmina.ac.jp/'],1,jp,Asia
-Global Leadership University,Mongolia,MN,['glu.edu.mn'],['https://glu.edu.mn/'],1,mn,
+Global Leadership University,Mongolia,MN,['glu.edu.mn'],['https://glu.edu.mn/'],1,mn,Asia
 Université Internationale de Rabat,Morocco,MA,['uir.ac.ma'],['https://www.uir.ac.ma/'],1,ma,Africa
 Aeres Hogeschool Almere,Netherlands,NL,['aereshogeschool.nl'],['https://www.aereshogeschool.nl/'],1,nl,Europe
 Universidad de Ingeniería y Tecnología,Peru,PE,['utec.edu.pe'],['https://utec.edu.pe/'],1,pe,South America
