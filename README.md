@@ -12,11 +12,13 @@ An end-to-end ETL (Extract, Transform, Load) project that fetches data from a pu
 ```
 .
 ├── README.md                   # Project overview and setup instructions
-├── data_extraction.py          # Script to fetch data from API
-├── data_cleaning.py            # Script for cleaning and transforming data
-├── load_to_bigquery.py         # Script to load data into Google BigQuery
+├── extract.py                  # Script to fetch data from API
+├── transform.py                # Script for cleaning and transforming data
+├── load.py                     # Script to load data into Google BigQuery
+├── etl-deployment.py           # Script to Registering and scheduling your ETL workflow (flow) automatically
+├── etl-main.py                 # Script to Identify the flow for automatically
 ├── dashboard_link.txt          # URL to the Looker Studio dashboard
-├── presentation_slides.pdf     # Final presentation slides
+├── presentation_slides.txt     # Final presentation slides
 └── requirements.txt            # Required Python packages
 ```
 
