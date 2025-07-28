@@ -1,24 +1,29 @@
 # File konfigurasi rahasia
 .env
-config/
+config/gcp_key.json
+
+# Data mentah dan hasil yang tidak perlu dilacak
+data/raw_universities.json
+data/cleaned_universities.csv
 
 # Cache dan file sementara Python
-*.pyc
 __pycache__/
+*.pyc
 
-# File log
-*.log
-logs/
-
-# File Jupyter Notebook checkpoint
+# File Jupyter Notebook checkpoint dan runtime
 .ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+*.ipynb
 
 # File sementara sistem
 .DS_Store
 *.tmp
 *.bak
 
-# Direktori yang tidak perlu diunggah
+# Direktori editor dan dokumentasi
 .vscode/
-notebooks/
 docs/
+notebooks/
+
+# Output hasil sementara atau link
+dashboard_link.txt
