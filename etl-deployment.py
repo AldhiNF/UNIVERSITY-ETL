@@ -1,16 +1,20 @@
 from prefect import flow
+from prefect.deployments import Deployment
 from prefect_github.repository import GitHubRepository
 
-# Load GitHub repository block yang sudah kamu buat di Prefect Cloud
+# Load GitHub repository block yang sudah dibuat di Prefect Cloud
 github_repository_block = GitHubRepository.load("github-repository-univ")
 
-# Deploy flow dari repositori GitHub
-flow.from_source(
-    source=github_repository_block,
-    entrypoint="etl-main.py:etl_flow",  # nama fungsi di dalam file
-).deploy(
+# Buat deployment dari source GitHub
+deployment = Deployment.build_from_source(
     name="UNIVERSITY-ETL",
-    work_pool_name="etl-workers"
+    flow_name="etl_flow",  # nama fungsi flow kamu
+    source=github_repository_block,
+    entrypoint="main.py:run_pipeline",  # file dan fungsi flow
+    work_pool_name="etl-workers",
 )
+
+# Simpan deployment
+deployment.apply()
 
 print("Flow deployed successfully!")
