@@ -6,9 +6,9 @@ deployment = Deployment.build_from_source(
     flow_name="etl_flow",
     source=GitHubRepository.load("github-repository-univ"),
     entrypoint="etl-main.py:etl_flow",
-    work_pool_name="etl-workers",
+    work_pool_name="etl-workers"
 )
 
 deployment.apply()
 
-print("✅ Deployment berhasil!")
+print("✅ Flow deployed successfully!")
