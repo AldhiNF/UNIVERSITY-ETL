@@ -6,7 +6,7 @@ import os
 
 def load_to_bigquery(csv_path, table_id):
     # Load credentials dari Prefect Block
-    gcp_block = GcpCredentials.load("github-credential")  
+    gcp_block = GcpCredentials.load("gcp-cred-univ")  
     credentials = gcp_block.get_credentials_from_service_account()
     client = bigquery.Client(credentials=credentials, project=gcp_block.project)
 
