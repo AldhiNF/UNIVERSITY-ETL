@@ -10,7 +10,7 @@ deployment = Deployment.build_from_source(
     name="UNIVERSITY-ETL",
     flow_name="etl_flow",  # nama fungsi flow kamu
     source=github_repository_block,
-    entrypoint="main.py:run_pipeline",  # file dan fungsi flow
+    entrypoint="etl-main.py:etl_flow",  # file dan fungsi flow
     work_pool_name="etl-workers",
 )
 
