@@ -2,7 +2,7 @@ from prefect import flow
 from prefect_github.repository import GitHubRepository
 
 # Load GitHub repository block yang sudah kamu buat di Prefect Cloud
-github_repository_block = GitHubRepository.load("github-repo")
+github_repository_block = GitHubRepository.load("github-repository-univ")
 
 # Deploy flow dari repositori GitHub
 flow.from_source(
