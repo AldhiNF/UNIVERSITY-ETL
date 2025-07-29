@@ -9,7 +9,7 @@ flow.from_source(
     source=github_repository_block,
     entrypoint="etl-main.py:etl_flow",  # nama fungsi di dalam file
 ).deploy(
-    name="university-etl",
+    name="UNIVERSITY-ETL",
     work_pool_name="etl-workers"
 )
 
