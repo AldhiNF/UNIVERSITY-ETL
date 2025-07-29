@@ -14,7 +14,7 @@ TABLE_ID = "university-etl-project.university_data.universities"
 def etl_flow():
     fetch_university_data(RAW_PATH)
     clean_university_data(RAW_PATH, CLEAN_PATH)
-    load_to_bigquery(CLEAN_PATH, TABLE_ID)
+    load_to_bigquery(CLEAN_PATH, TABLE_ID, GCP_CRED)
 
 # Untuk testing lokal (opsional)
 if __name__ == "__main__":
